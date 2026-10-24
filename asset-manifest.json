@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-usuarios-do-sistema/static/css/main.40fd0ff4.css",
+    "main.js": "/get-usuarios-do-sistema/static/js/main.5f214154.js",
+    "index.html": "/get-usuarios-do-sistema/index.html",
+    "main.40fd0ff4.css.map": "/get-usuarios-do-sistema/static/css/main.40fd0ff4.css.map",
+    "main.5f214154.js.map": "/get-usuarios-do-sistema/static/js/main.5f214154.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fd0ff4.css",
+    "static/js/main.5f214154.js"
+  ]
+}
